@@ -10,7 +10,7 @@ Caso queira saber mais sobre o programa de contribuição da Elastic [**clique a
 
 ## DESTRINCHANDO O ELASTIC SECURITY - ENDPOINT SECURITY
 
-O Elastic Security para endpoint previne ransomware e malware, detecta ameaças avançadas e proporciona aos respondentes um contexto investigativo vital. Tudo em uma plataforma aberta, para infraestrutura e hosts em todos os lugares..
+O Elastic Security para endpoint previne ransomware e malware, detecta ameaças avançadas e proporciona aos respondentes um contexto investigativo vital. Tudo em uma plataforma aberta, para infraestrutura e hosts em todos os lugares.
 
 <a href="https://ibb.co/VDdwPyF"><img src="https://i.ibb.co/2PwZf2z/SIEM.png" alt="SIEM" border="0"></a>
 
